@@ -33,4 +33,9 @@ class FoodSergioTests: XCTestCase {
         }
     }
     
+    //MARK: Meal Class Tests
+    
+    func testMealInitializationSucceeds() {
+    }
+    
 }
